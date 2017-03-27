@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.cache/
+.idea/
+
+.ipynb_checkpoints/
+*.ipynbet PYTHONPATH $SPARK_HOME/python/lib/py4j-0.10.4-i
+
